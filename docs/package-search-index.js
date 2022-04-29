@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.depauw.csc232.solitaire"},{"l":"edu.depauw.csc232.solitaire.klondike"},{"l":"edu.depauw.csc232.solitaire.model"},{"l":"edu.depauw.csc232.solitaire.ui"}]
