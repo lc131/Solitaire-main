@@ -20,6 +20,7 @@ import edu.depauw.csc232.solitaire.klondike.KlondikeGame;
  * Main class for the solitaire application.
  * 
  * @author bhoward
+ * @Edittor Long Chu
  */
 public class Main
 {
